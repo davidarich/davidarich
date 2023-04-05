@@ -46,11 +46,12 @@ Languages, frameworks, runtimes, tools, and other tech I've used to succesfully 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="48px" width="48px" />
 </div>
 
-### Metrics & Monitoring
+### Metrics, Monitoring, and Logging
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" height="48px" width="48px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="48px" width="48px" />
+    <img src="https://user-images.githubusercontent.com/4581240/230210159-27627704-7f48-478f-a8c1-51507f776034.svg" height="48px" width="48px" />
 </div>
 
 ### Operating Systems
