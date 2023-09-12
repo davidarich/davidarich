@@ -4,22 +4,17 @@
 
 Languages, frameworks, runtimes, tools, and other tech I've used to succesfully deliver and manage production web applications.
 
-### Backend
+### Programming
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="48px" width="48px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="48px" width="48px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48px" width="48px" />
-</div>
-
-### Frontend
-
-<div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="48px" width="48px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48px" width="48px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48px" width="48px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="48px" width="48px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="48px" width="48px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="48px" width="48px" />
 </div>
 
 ### Database
@@ -46,7 +41,7 @@ Languages, frameworks, runtimes, tools, and other tech I've used to succesfully 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="48px" width="48px" />
 </div>
 
-### Metrics, Monitoring, and Logging
+### Observability
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" height="48px" width="48px" />
