@@ -20,7 +20,7 @@ Languages, frameworks, runtimes, tools, and other tech I've used to successfully
 ### Database
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgres/postgres-original-wordmark.svg" height="48px" width="48px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="48px" width="48px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="48px" width="48px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="48px" width="48px" />
 </div>
